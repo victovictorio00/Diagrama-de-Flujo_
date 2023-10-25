@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T02:33:24.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1-u3qVIx8psTlVtIokOR" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T02:36:38.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1tcMrtMmwpwQZxuWBG2z" version="22.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1753" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,16 +77,16 @@
           <mxGeometry x="158.76" y="490" width="125" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x3AqGKK6ZHYvsRYYXduh-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-16.880000000000003" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="-15.940000000000003" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3AqGKK6ZHYvsRYYXduh-59" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Material seleccionado aceptado para la apertura del basurero&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="280" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="x3AqGKK6ZHYvsRYYXduh-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="153.12" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="154.06" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3AqGKK6ZHYvsRYYXduh-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="335" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="335.94" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
