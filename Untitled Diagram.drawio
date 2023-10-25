@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T02:54:03.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="F_SllbFKOtwW5bWlmmXB" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T02:57:50.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Htt8KFmNH7pPb7JKYRDP" version="22.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1753" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="x3AqGKK6ZHYvsRYYXduh-67" value="Material de Metal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x3AqGKK6ZHYvsRYYXduh-73" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-62.5" y="963.75" width="127.5" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
